@@ -46,7 +46,7 @@
     display: none;
 }
 
-@media screen and (max-width : 425px){
+@media screen and (max-width : 450px){
     .navbar__wrapper{
         padding: 0.5rem 0.75rem;
     }
