@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Alkatra', cursive;
+    font-size: 0.75rem;
+}
+.Bottom__contact{
+    margin-top: 0.4rem;
+}
+
+.navbar__wrapper{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    /* height: 200px;     */
+    background-color: black;
+    width: 100vw;
+}
+
+.nav__ul{
+    color: white;
+}
+
+.img__impetus{
+    max-width: 6rem;
+}
+
+.img__mech{
+    max-width: 15rem;
+}
+
+.hero__section img{
+    background-image: url(Carpentry.jpg);
+    width: 110vw;
+    height: 80vh;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
